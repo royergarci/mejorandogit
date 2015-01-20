@@ -1,0 +1,35 @@
+commit f37678e68d94ec99a3d236f3ec8974a59aeed9f0
+Author: Rogelio García <royergarci@hotmail.com>
+Date:   Fri Jan 16 12:13:07 2015 -0600
+
+    Agregue portafolio
+
+commit c83daa4f78b6278bb500b79046e7d598b17d8ead
+Author: Rogelio García <royergarci@hotmail.com>
+Date:   Fri Jan 16 12:12:30 2015 -0600
+
+    Agrege descripcion
+
+commit c6feb6109e4d98a521f7ba70d6775eb4f377125c
+Author: Rogelio García <royergarci@hotmail.com>
+Date:   Fri Jan 16 12:11:37 2015 -0600
+
+    Agrege redes sociales
+
+commit d6f1aaa57794d75adcc16debc364dbf185724364
+Author: Rogelio García <royergarci@hotmail.com>
+Date:   Fri Jan 16 12:09:23 2015 -0600
+
+    Perfil Web escrito
+
+commit 23f3818dba18d4376cf8d0770c3c0f504fd8c4e3
+Author: Rogelio García <royergarci@hotmail.com>
+Date:   Fri Jan 16 12:07:12 2015 -0600
+
+    Subi foto de perfil y mi nombre
+
+commit 8808bcff7675b38d7e2ef067afc3cdb7afd74c26
+Author: Rogelio García <royergarci@hotmail.com>
+Date:   Fri Jan 16 12:02:20 2015 -0600
+
+    Estos son los archivos base de mi portafolio
